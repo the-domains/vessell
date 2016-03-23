@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Trust in You
-datePublished: '2016-03-23T22:35:49.973Z'
-dateModified: '2016-03-23T22:35:49.437Z'
-title: ''
+datePublished: '2016-03-23T22:43:06.150Z'
+dateModified: '2016-03-23T22:38:01.949Z'
+title: 'Trust in You '
 author: []
+sourcePath: _posts/2016-03-23-trust-in-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-trust-in-you.md
-published: true
-url: trust-in-you/index.html
-_type: Article
+_type: Blurb
 
 ---
 Trust in You
