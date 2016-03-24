@@ -22,7 +22,7 @@ color:
     - '#fefaba'
     - '#faa721'
   brandStrength: 0.17306626169010997
-  lightness: 0.3986448037903756
+  lightness: 0.375
   saturation: 0.4522513230331242
-  rhythmicContrast: 0.9966955510899425
+  rhythmicContrast: 1
 purpose: []
